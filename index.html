@@ -13,7 +13,7 @@
             <h1>Groot Nederlands Scheldwoordenboek</h1>
     <div id="menu-placeholder"></div>
     <script>
-        fetch('menu.html')
+        fetch('assets/menu.html')
             .then(response => response.text())
             .then(data => {
                 document.getElementById('menu-placeholder').innerHTML = data;
