@@ -139,36 +139,6 @@ footer a:hover {
     }
 }
 
-/* tobbar */
-.top-bar {
-    background-color: #333;
-    color: white;
-    padding: 10px 20px;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1000;
-}
-
-.top-bar ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: space-around;
-}
-
-.top-bar li {
-    display: inline;
-}
-
-.top-bar a {
-    color: white;
-    text-decoration: none;
-    padding: 10px 15px;
-    display: block;
-}
-
 .top-bar a:hover {
     background-color: #555;
 }
@@ -186,9 +156,4 @@ nav ul li {
 
 nav ul li:last-child {
     margin-right: 0;
-}
-
-header {
-    position: relative;
-    z-index: 10; /* Ensure it is above other content */
 }
