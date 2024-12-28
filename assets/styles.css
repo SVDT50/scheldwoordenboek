@@ -28,6 +28,19 @@ header {
     border-bottom: 2px solid #000;
     padding-bottom: 10px;
     margin-bottom: 20px;
+    position: relative; /* Ensure proper stacking context */
+}
+
+header div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header img.logo {
+    max-width: 100px; /* Adjust size to avoid overlapping with the h1 */
+    height: auto;
+    margin-bottom: 10px; /* Add space below the logo */
 }
 
 header h1 {
@@ -35,6 +48,10 @@ header h1 {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 2px;
+    color: #000; /* Ensure contrasting text color */
+    visibility: visible; /* Ensure visibility */
+    z-index: 1; /* Prevent overlapping issues */
+    margin: 10px 0; /* Add margin for spacing */
 }
 
 header p {
