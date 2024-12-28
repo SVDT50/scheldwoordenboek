@@ -11,16 +11,16 @@
         <div>
         <img src="logo.png" alt="Logo" class="logo">
             <h1>Groot Nederlands Scheldwoordenboek</h1>
-        </div>
-        <nav>
-            <ul class="nav-links">
-                <li><a href="#home">Home</a></li>
-                <li><a href="#scheldwoordenboek">Scheldwoordenboek</a></li>
-                <li><a href="#blog">Artikelen</a></li>
-                <li><a href="#prodcuten">Producten</a></li>
-                <li><a href="#Over ons">Over ons</a></li>
-            </ul>
-        </nav>
+    <div id="menu-placeholder"></div>
+    <script>
+        fetch('menu.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('menu-placeholder').innerHTML = data;
+            })
+            .catch(error => console.error('Error loading menu:', error));
+    </script>
+
     </header>
     <section id="hero">
         <h2>Welkom bij het Groot Nederlands Scheldwoordenboek</h2>
