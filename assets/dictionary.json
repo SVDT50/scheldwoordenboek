@@ -1,0 +1,17 @@
+{
+    "Aambeienbeffer": {
+        "definitie": "Een man met een seksuele voorkeur voor andere mannen",
+        "synonyms": ["aambeienlikker", "aambeienplukker", aambeienschoffelaar],
+        "zelfstandig naamwoord": 
+    },
+    "programming": {
+        "definition": "The process of writing computer programs.",
+        "synonyms": ["coding", "software development"],
+        "example": "Programming requires logic and creativity."
+    },
+    "javascript": {
+        "definition": "A lightweight, interpreted programming language.",
+        "synonyms": ["JS", "ECMAScript"],
+        "example": "JavaScript is widely used for web development."
+    }
+
