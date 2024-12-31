@@ -1,17 +1,15 @@
 {
     "Aambeienbeffer": {
         "definitie": "Een man met een seksuele voorkeur voor andere mannen",
-        "synonyms": ["aambeienlikker", "aambeienplukker", aambeienschoffelaar],
-        "zelfstandig naamwoord": 
+        "synoniemen": ["aambeienlikker", "aambeienplukker", "aambeienschoffelaar"],
+        "zelfstandig naamwoord": "<i>Met het laatste licht in zijn ogen keek hij hem schuin aan en maakte hij hem koelbloedig uit voor aambeienbeffer.<i/>"
+        "Vulgariteit": "★★★★★"
+        "Overwegingen": "Dit scheldwoord wordt veelal als ongepast beschouwd in vrijwel alle contexten en is zwaar beledigend voor mannen met een homoseksuele voorkeur; wij raden het gebruik van dit scheldwoord en haar synoniemen sterk af."
     },
-    "programming": {
-        "definition": "The process of writing computer programs.",
-        "synonyms": ["coding", "software development"],
-        "example": "Programming requires logic and creativity."
-    },
-    "javascript": {
-        "definition": "A lightweight, interpreted programming language.",
-        "synonyms": ["JS", "ECMAScript"],
-        "example": "JavaScript is widely used for web development."
-    }
+    "Aapmens": {
+        "definitie": "Een mens met oerse (aapachtige) trekjes",
+        "synoniemen": ["holbewoner", "mensaap", "neanderthaler"],
+        "Zelfstandig naamwoord": "<i>Als je zo slenterd lijk je op een aapmens!</i>"
+        "Vulgariteit": "★★★☆☆"
+        "Overwegingen": "Dit scheldwoord kan als zwaar beledigend ervaren worden door mensen met een Afrikaanse achtergrond; gebruik het aandachtig."
 
