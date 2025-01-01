@@ -1,15 +1,47 @@
 {
     "Aambeienbeffer": {
-        "definitie": "Een man met een seksuele voorkeur voor andere mannen",
-        "synoniemen": ["aambeienlikker", "aambeienplukker", "aambeienschoffelaar"],
-        "zelfstandig naamwoord": "<i>Met het laatste licht in zijn ogen keek hij hem schuin aan en maakte hij hem koelbloedig uit voor aambeienbeffer.<i/>"
-        "Vulgariteit": "★★★★★"
-        "Overwegingen": "Dit scheldwoord wordt veelal als ongepast beschouwd in vrijwel alle contexten en is zwaar beledigend voor mannen met een homoseksuele voorkeur; wij raden het gebruik van dit scheldwoord en haar synoniemen sterk af."
+        "Definitie": "Een man met een seksuele voorkeur voor andere mannen.",
+        "Synoniemen": ["aambeienlikker", "aambeienplukker", "aambeienschoffelaar"],
+        "Voorbeelden": [
+            {
+                "Type": "Zelfstandig naamwoord",
+                "Tekst": "Met het laatste licht in zijn ogen keek hij hem schuin aan en maakte hij hem koelbloedig uit voor aambeienbeffer."
+            }
+        ],
+        "Vulgariteit": "★★★★★",
+        "Overwegingen": [
+            "Dit scheldwoord wordt veelal als ongepast beschouwd in vrijwel alle contexten en is zwaar beledigend voor mannen met een homoseksuele voorkeur.",
+            "Wij raden het gebruik van dit scheldwoord en haar synoniemen sterk af."
+        ]
     },
+    
+    "Aap": {
+        "Definitie": [
+            "Een dom persoon",
+            "Een ondeugend persoon, veelal een kind"
+        ],
+        "Synoniemen": ["doomoor", "deugniet"],
+        "Zelfstandig naamwoord": "<i>Het niveau ligt niet heel hoog vandaag; echt een stel apen.</i>",
+        "Aantekeningen": "Aap wordt vaak in comnbinatie gebruikt met een bijvoegelijk naamwoord, denk bijvoorbeeld aan brulaap, baardaap of tuinaap.",
+        "Vulgariteit": "★★☆☆☆",
+        "Overwegingen": [
+            "Dit scheldwoord kan als zwaar beledigend ervaren worden door mensen met een Afrikaanse achtergrond.",
+            "Gebruik dit scheldwoord aandachtig."
+        ]
+    },
+            
     "Aapmens": {
-        "definitie": "Een mens met oerse (aapachtige) trekjes",
-        "synoniemen": ["holbewoner", "mensaap", "neanderthaler"],
-        "Zelfstandig naamwoord": "<i>Als je zo slentert lijk je op een aapmens!</i>"
-        "Vulgariteit": "★★★☆☆"
-        "Overwegingen": "Dit scheldwoord kan als zwaar beledigend ervaren worden door mensen met een Afrikaanse achtergrond; gebruik het aandachtig."
+        "Definitie": "Een mens met oerse (aapachtige) trekjes.",
+        "Synoniemen": ["holbewoner", "mensaap", "neanderthaler"],
+        "Zelfstandig naamwoord": "<i>Als je zo slentert lijk je op een aapmens!</i>",
+        "Vulgariteit": "★★★☆☆",
+        "Overwegingen": [
+            "Dit scheldwoord kan als zwaar beledigend ervaren worden door mensen met een Afrikaanse achtergrond.",
+            "Gebruik dit scheldwoord aandachtig."
+        ]
+    },
+
+    "Aardappel": 
+        "Definitie": [
+            "
 
