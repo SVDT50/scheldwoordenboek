@@ -1,17 +1,19 @@
 {
     "Aambeienbeffer": {
         "Definitie": "Een man met een seksuele voorkeur voor andere mannen.",
-        "Synoniemen": ["aambeienlikker", "aambeienplukker", "aambeienschoffelaar"],
+        "Verwante woorden": ["aambeienlikker", "aambeienplukker", "aambeienschoffelaar", "aambei-indiaan"],
+        "Synoniemen": ["aarsficker", "anaalvandaal", "analist", "anusje-van-alles", "bilnaadpiraat", "bruinduiker",  ],
         "Voorbeelden": [
             {
                 "Type": "Zelfstandig naamwoord",
-                "Tekst": "Met het laatste licht in zijn ogen keek hij hem schuin aan en maakte hij hem koelbloedig uit voor aambeienbeffer."
+                "Tekst": "<i>Met het laatste licht in zijn ogen keek hij hem schuin aan en maakte hij hem koelbloedig uit voor aambeienbeffer</i>."
             }
         ],
         "Vulgariteit": "★★★★★",
         "Overwegingen": [
             "Dit scheldwoord wordt veelal als ongepast beschouwd in vrijwel alle contexten en is zwaar beledigend voor mannen met een homoseksuele voorkeur.",
-            "Wij raden het gebruik van dit scheldwoord en haar synoniemen sterk af."
+            "Wij raden het gebruik van dit scheldwoord en haar synoniemen sterk af.",
+            "Gebruik dit scheldwoord nooit met discrimineerende doeleinden."
         ]
     },
     
@@ -20,28 +22,76 @@
             "Een dom persoon",
             "Een ondeugend persoon, veelal een kind"
         ],
-        "Synoniemen": ["doomoor", "deugniet"],
-        "Zelfstandig naamwoord": "<i>Het niveau ligt niet heel hoog vandaag; echt een stel apen.</i>",
-        "Aantekeningen": "Aap wordt vaak in comnbinatie gebruikt met een bijvoegelijk naamwoord, denk bijvoorbeeld aan brulaap, baardaap of tuinaap.",
-        "Vulgariteit": "★★☆☆☆",
+        "Voorbeelden": [
+            {
+                "Type": ["Zelfstandig naamwoord","Meervoud"],
+                "Tekst": "<i>Het niveau ligt niet heel hoog vandaag; echt een stel apen zijn jullie!.</i>"
+            },
+            {
+                "Type": ["Zelfstandig naamwoord", "Verkleinwoord"],
+                "Tekst": "<i>Heb je nou nog een snoepje gepakt? ik had gezegd dat je er maar één mocht, aapje!.</i>"
+            }
+        ],
+        "Aantekeningen": "Aap wordt vaak in combinatie gebruikt met een bijvoeglijk naamwoord, denk bijvoorbeeld aan brulaap, baardaap of tuinaap.",
+        "Vulgariteit": "★★★☆☆",
         "Overwegingen": [
             "Dit scheldwoord kan als zwaar beledigend ervaren worden door mensen met een Afrikaanse achtergrond.",
-            "Gebruik dit scheldwoord aandachtig."
+            "Gebruik dit scheldwoord nooit met racistische doeleinden."
         ]
     },
             
     "Aapmens": {
         "Definitie": "Een mens met oerse (aapachtige) trekjes.",
-        "Synoniemen": ["holbewoner", "mensaap", "neanderthaler"],
-        "Zelfstandig naamwoord": "<i>Als je zo slentert lijk je op een aapmens!</i>",
+        "Synoniemen": "mensaap",
+        "Voorbeelden": [
+            {
+                "Type": "Zelfstandig naamwoord",
+                "Tekst": "<i>Als je zo slentert lijk je op een aapmens!</i>"
+            }
+        ],
         "Vulgariteit": "★★★☆☆",
         "Overwegingen": [
             "Dit scheldwoord kan als zwaar beledigend ervaren worden door mensen met een Afrikaanse achtergrond.",
-            "Gebruik dit scheldwoord aandachtig."
+            "Gebruik dit scheldwoord nooit met racistische doeleinden."
         ]
     },
 
-    "Aardappel": 
+    "Aardappel": {
         "Definitie": [
-            "
+            "Een dom persoon.",
+            "Anglicisme (leenvertaling uit het Engels); iemand die suf, dik, lui, lelijk of raar is."
+        ],
+        "Voorbeelden": [
+            {
+                "Type": "Zelfstandig naamwoord",
+                "Tekst": "<i>Neem hem maar niet te serieus, hij is echt een aardappel.</i>"
+            },
+            {
+                "Type": ["Zelfstandig naamwoord", "Anglicisme"],
+                "Tekst": "<i>Nee, die ga ik niet dragen naar het feestje; in die jurk zie ik er uit als een aardappel!.</i>"
+            }
+        ],
+        "Aantekening": "Aardappel als anglicisme wordt vaak gebruikt door vrouwen of meisjes om onzekerheid over hun eigen uiterlijk te uiten, hiervoor wordt soms ook het letterlijke Engelse woord <i>potato</i> gebruikt.",
+        "Vulgariteit": "★★☆☆☆",
+        "Overwegingen": "Dit scheldwoord kan mensen die onzeker zijn over hun uiterlijk zwaar kwetsen."
+    },
+
+    "Aardbei": {
+        "Definitie": [
+            "Iemand met rood haar en sproeten.",
+            "Iemand met puisten."
+        ],
+        "Voorbeelden": [
+            {
+                "Type": "Zelfstandig naamwoord",
+                "Tekst": "<i>Hij heeft het chromosoom 16; hij is een aardbei.</i>"
+            }
+        ],
+        "Vulgariteit": "★★☆☆☆",
+        "Overwegingen": "Dit scheldwoord kan mensen die onzeker zijn over hun uiterlijk zwaar kwetsen."
+    },
+
+    "Aarsficker":{
+        "Definitie": "Een man met een seksuele voorkeur voor andere mannen",
+        "Verwante woorden": ["Aarsjager", "Aarsridder"]
 
