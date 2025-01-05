@@ -11,7 +11,7 @@
         ],
         "Vulgariteit": "★★★★★",
         "Overwegingen": [
-            "Dit scheldwoord wordt veelal als ongepast beschouwd in vrijwel alle contexten en is zwaar beledigend voor mannen met een homoseksuele voorkeur.",
+            "Dit scheldwoord is zwaar beledigend voor mannen met een homoseksuele voorkeur.",
             "Wij raden het gebruik van dit scheldwoord en haar synoniemen sterk af.",
             "Gebruik dit scheldwoord nooit met discrimineerende doeleinden."
         ]
@@ -47,7 +47,7 @@
             
     "Aapmens": {
         "Definitie": "Een mens met oerse (aapachtige) trekjes.",
-        "Synoniemen": "mensaap",
+        "Verwante woorden": "mensaap",
         "Voorbeelden": [
             {
                 "Type": "Zelfstandig naamwoord",
@@ -86,6 +86,9 @@
             "Iemand met rood haar en sproeten.",
             "Iemand met puisten."
         ],
+        "Synoniemen": {
+            "Definitie 1": ["ginger", "roestkop", "sproetje"]
+        },
         "Voorbeelden": [
             {
                 "Type": "Zelfstandig naamwoord",
@@ -97,6 +100,59 @@
     },
 
     "Aarsficker":{
-        "Definitie": "Een man met een seksuele voorkeur voor andere mannen",
-        "Verwante woorden": ["Aarsjager", "Aarsridder"]
+        "Definitie": "Germanisme (leenvertaling uit het Duits); een man met een seksuele voorkeur voor andere mannen.",
+        "Verwante woorden": ["aarsjager", "aarsridder", "aarslikker"],
+        "Synoniemen": ["aambeienbeffer", "anaalvandaal", "analist", "anusje-van-alles", "bilnaadpiraat", "bruinduiker", "chocoprins", "darmkanaaladmiraal", "flikker", "holrazer", "kontkrijger", "kussenbijter", "kringspiermusketier", "nicht", "poepstamper", "poot", "rectaalrecreant", "reetatleet", "ridder van de bruine orde", "rugtuffer"],
+        "Voorbeelden": [
+            {
+                "Type":["Zelfstandig naamwoord", "Germanisme"],
+                "Tekst": "<i>Haar duitse collega's negeren haar sinds zij hen publiekelijk uitmaakte voor aarsfickers.</i>"
+            }
+        ],
+        "Vulgariteit":"★★★★☆"
+        "Overwegingen": [
+            "Dit scheldwoord is zwaar beledigend voor mannen met een homoseksuele voorkeur.",
+            "Wij raden het gebruik van dit scheldwoord en haar synoniemen af.",
+            "Gebruik dit scheldwoord nooit met discrimineerende doeleinden."
+        ]
+    },
+
+    "Aarstulp":{
+        "Definitie": [
+            "Vulgair synoniem voor aambei.",
+            "(In de pronografie) vulgair synoniem voor anus."
+        ],
+        "Verwante woorden": ["aambeienlikker", "aambeienplukker", "aambeienschoffelaar", "aambei-indiaan"],
+        "Synoniemen": {
+            "Definitie 1": ["aambei", "hemorroïde"],
+            "Definitie 2": ["anus", "artiesten ingang", "ster", "jongenskut", "Coentunnel"],
+        },
+// hier verder
+
+    "Aasgier":{
+        "Definitie":[
+            "Iemand die profiteert van andermans ongeluk.",
+            "Iemand die het op andermans eten gemunt heeft."
+        ]
+        "Verwante woorden": ["aasvogel"],
+        "Voorbeelden": [
+            {
+                "Type":["Zelfstandig naamwoord"],
+                "Tekst": "<i>Hij was blij dat ik mijn hand had gebroken zodat hij thuis kon blijven van werk, wat een aasgier!</i>"
+            }
+            {
+                "Type":["Zelfstandig naamwoord"],
+                "Tekst": "<i>Als je ook een broodje wil, koop er dan godverdomme zelf één, aasgier!</i>"
+            }            
+        ],
+        "Vulgariteit":"★☆☆☆☆"
+        "Overwegingen": [
+            "Dit scheldwoord is onschuldig."
+        ]
+    },    
+        
+
+
+    
+        
 
