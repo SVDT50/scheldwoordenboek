@@ -2,7 +2,7 @@
     "Aambeienbeffer": {
         "Definitie": "Een man met een seksuele voorkeur voor andere mannen.",
         "Verwante woorden": ["aambeienlikker", "aambeienplukker", "aambeienschoffelaar", "aambei-indiaan"],
-        "Synoniemen": ["aarsficker", "anaalvandaal", "analist", "anusje-van-alles", "bilnaadpiraat", "bruinduiker",  ],
+        "Synoniemen": ["aarsficker", "anaalvandaal", "analist", "anusje-van-alles", "bilnaadpiraat", "bruinduiker", "chocoprins", "darmkanaaladmiraal", "flikker", "holrazer", "kontkrijger", "kussenbijter", "kringspiermusketier", "nicht", "poepstamper", "poot", "rectaalrecreant", "reetatleet", "ridder van de bruine orde", "rugtuffer"],
         "Voorbeelden": [
             {
                 "Type": "Zelfstandig naamwoord",
@@ -22,6 +22,11 @@
             "Een dom persoon",
             "Een ondeugend persoon, veelal een kind"
         ],
+        "Verwante woorden": ["aapmens", "baardaap", "badaap", "blaataap", // alle woorden met aap toevoegen],
+        "Synoniemen": {
+            "Definitie 1": ["botterik", "domoor", "minkukel", "oen", "onnozelaar", "stommeling", "sufferd"],
+            "Definitie 2": ["bengel", "boefje", "deugniet", "dondersteen", "schavuit", "etter", "kwajongen", "belhamel", "doerak", "bliksemstraal", "kwapoets"]
+        },
         "Voorbeelden": [
             {
                 "Type": ["Zelfstandig naamwoord","Meervoud"],
