@@ -148,7 +148,7 @@
             "Iemand die profiteert van andermans ongeluk.",
             "Iemand die het op andermans eten gemunt heeft."
         ],
-        "Verwante woorden": ["aasvogel"],
+        "Verwante woorden": "aasvogel",
         "Voorbeelden": [
             {
                 "Type":["Zelfstandig naamwoord"],
@@ -163,7 +163,14 @@
         "Overwegingen": [
             "Dit scheldwoord is onschuldig."
         ]
-    },    
+    },
+
+    "Addergebroed": {
+        "Definitie": "Een groep gemeene, venijnige mensen; letterlijk een nest jonge adders.",
+        "Verwante woorden": ["adder", "gebroed", "satansgebroed", "slangengebroed"],
+        "Synoniemen": ["tuig", "uitschot", "gespuis", "schorem", "geboefte", "rapaille"],
+        
+        
         
 
 
