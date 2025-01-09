@@ -127,19 +127,33 @@
             "Definitie 1": ["aambei", "hemorroïde"],
             "Definitie 2": ["anus", "artiesten ingang", "ster", "jongenskut", "Coentunnel"],
         },
-// hier verder
+        "Voorbeelden": [
+            {
+                "Type":["Zelfstandig naamwoord"],
+                "Tekst": "<i>Ik blijf vandaag liever achter mijn drumstel staan, ik heb last van een aarstulp.</i>"
+            },
+            {
+                "Type":["Zelfstandig naamwoord"],
+                "Tekst": "<i>Hij had de tekst VIP entrance boven zijn aarstulp getattooeerd</i>"
+            }            
+        ],
+        "Vulgariteit":"★★☆☆☆"
+        "Overwegingen": [
+            "Deze term wordt in veel contexten als ongepast beschouwd."
+          },   
 
+        
     "Aasgier":{
         "Definitie":[
             "Iemand die profiteert van andermans ongeluk.",
             "Iemand die het op andermans eten gemunt heeft."
-        ]
+        ],
         "Verwante woorden": ["aasvogel"],
         "Voorbeelden": [
             {
                 "Type":["Zelfstandig naamwoord"],
                 "Tekst": "<i>Hij was blij dat ik mijn hand had gebroken zodat hij thuis kon blijven van werk, wat een aasgier!</i>"
-            }
+            },
             {
                 "Type":["Zelfstandig naamwoord"],
                 "Tekst": "<i>Als je ook een broodje wil, koop er dan godverdomme zelf één, aasgier!</i>"
