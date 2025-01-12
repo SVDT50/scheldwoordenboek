@@ -78,7 +78,7 @@
         ],
         "Aantekening": "Aardappel als anglicisme wordt vaak gebruikt door vrouwen of meisjes om onzekerheid over hun eigen uiterlijk te uiten, hiervoor wordt soms ook het letterlijke Engelse woord <i>potato</i> gebruikt.",
         "Vulgariteit": "★★☆☆☆",
-        "Overwegingen": "Dit scheldwoord kan mensen die onzeker zijn over hun uiterlijk zwaar kwetsen."
+        "Overwegingen": "Dit scheldwoord kan mensen die onzeker zijn over hun uiterlijk kwetsen."
     },
 
     "Aardbei": {
@@ -96,7 +96,7 @@
             }
         ],
         "Vulgariteit": "★★☆☆☆",
-        "Overwegingen": "Dit scheldwoord kan mensen die onzeker zijn over hun uiterlijk zwaar kwetsen."
+        "Overwegingen": "Dit scheldwoord kan mensen die onzeker zijn over hun uiterlijk kwetsen."
     },
 
     "Aarsficker":{
@@ -184,7 +184,21 @@
 
 "Baby's drankkast": {
     "Defintie": "Borsten; rondingen aan de bovenzijde van de vrouwelijke romp",
-    "Synoniemen": 
+    "Synoniemen": ["tieten", "balkon", "bloemkolen", "bobbies", "melkbussen", "kokosnoten", "kwarktassen", "uiers", "voorgevel"],
+    "Voorbeelden": [
+            {
+                "Type": ["Zelfstandig naamwoord"],
+                "Tekst": "<i>Allemaal leuk en aardig, maar heb je aan baby's drankkast mogen voelen?</i>"
+            }
+    ],
+    "Vulgariteit": "★★☆☆☆"
+    "Overwegingen": [
+        "Deze term wordt in veel contexten als ongepast beschouwd.",
+        "Deze term kan als stigmatiserend ervaren worden door vrouwen."
+    ]
+},
+    
+    
     
 
                 
