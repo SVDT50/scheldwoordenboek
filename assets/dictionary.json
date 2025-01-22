@@ -109,7 +109,7 @@
                 "Tekst": "<i>Haar duitse collega's negeren haar sinds zij hen publiekelijk uitmaakte voor aarsfickers.</i>"
             }
         ],
-        "Vulgariteit":"★★★★☆"
+        "Vulgariteit":"★★★★☆",
         "Overwegingen": [
             "Dit scheldwoord is zwaar beledigend voor mannen met een homoseksuele voorkeur.",
             "Wij raden het gebruik van dit scheldwoord en haar synoniemen af.",
@@ -137,7 +137,7 @@
                 "Tekst": "<i>Hij had de tekst VIP entrance boven zijn aarstulp getattooeerd</i>"
             }            
         ],
-        "Vulgariteit":"★★☆☆☆"
+        "Vulgariteit":"★★☆☆☆",
         "Overwegingen": [
             "Deze term wordt in veel contexten als ongepast beschouwd."
         ]
@@ -160,7 +160,7 @@
                 "Tekst": "<i>Als je ook een broodje wil, koop er dan godverdomme zelf één, aasgier!</i>"
             }            
         ],
-        "Vulgariteit":"★☆☆☆☆"
+        "Vulgariteit":"★☆☆☆☆",
         "Overwegingen": [
             "Dit scheldwoord is onschuldig."
         ]
@@ -176,7 +176,7 @@
                 "Tekst": "<i>Oprotten nou, er proberen hier mensen te slapen, addergebroed!</i>"
             }
         ],
-        "Vulgariteit":"★★☆☆☆"
+        "Vulgariteit":"★★☆☆☆",
         "Overwegingen": [
             "Dit scheldwoord is onschuldig."
         ]
@@ -191,13 +191,30 @@
                 "Tekst": "<i>Allemaal leuk en aardig, maar heb je aan baby's drankkast mogen voelen?</i>"
             }
     ],
-    "Vulgariteit": "★★☆☆☆"
+    "Vulgariteit": "★★☆☆☆",
     "Overwegingen": [
         "Deze term wordt in veel contexten als ongepast beschouwd.",
         "Deze term kan als stigmatiserend ervaren worden door vrouwen."
     ]
 },
-    
+
+"Badgast": {
+    "Definitie": "Iemand die zich vreemd gedraagt",
+    "Verwante woorden": "badmuts",
+    "Synoniemen": ["zonderling", "kwast", "buitenbeentje", "snoeshaan", "rare snuiter", "eenzaat"],
+        "Voorbeelden": [
+            {
+                "Type": ["Zelfstandig naamwoord"],
+                "Tekst": "<i>Zag je wat hij gisteren aanhad? Wat een badgast is het ook...</i>"
+            }
+    ],
+   "Vulgariteit": "★☆☆☆☆",
+    "Overwegingen": [
+            "Dit scheldwoord is onschuldig."        
+    ]
+},
+
+
     
     
 
